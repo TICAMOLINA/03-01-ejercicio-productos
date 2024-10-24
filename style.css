@@ -1,0 +1,47 @@
+body {
+  background-color: #273238;
+}
+
+h1 {
+  color: #698593;
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+
+p {
+  color: white;
+  text-align: start;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.color-01 {
+  color: #e5cbbe;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: italic;
+}
+
+.color-h202 {
+  color: #a1c1cb;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: italic;
+}
+
+.color-h203 {
+  color: #bcbdbf;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: italic;
+}
+
+.color-h204 {
+  color: #8d94a1;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: italic;
+}
+
+.color-h205 {
+  color: #b2b2aa;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: italic;
+}
+
