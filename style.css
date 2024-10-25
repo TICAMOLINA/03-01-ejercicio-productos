@@ -14,7 +14,7 @@ h1 {
 
 p {
   color: rgb(226, 226, 226);
-  text-align: start;
+  text-align: justify;
   font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
   font-size: 14px;
 }
@@ -49,3 +49,76 @@ p {
   font-style: italic;
 }
 
+.margin-izquierda {
+  margin-left: 30px;
+}
+
+.padding {
+  background-color: black;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 0px;
+  padding-top: 1px;
+}
+
+.borde {
+  border: #f0ded9;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.borde-celu {
+  border: #afcbd3;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.padding-celu {
+  background-color: black;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top: 0px;
+}
+
+.borde-consola {
+  border: #bcbdbf;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.padding-consola {
+  background-color: black;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
+
+.borde-home {
+  border: #8c93a0;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.padding-home {
+  background-color: black;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 0px;
+  padding-top: 1px;
+}
+
+.borde-tele {
+  border: #b2b2aa;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.padding-tele {
+  background-color: black;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top: 0px;
+}
