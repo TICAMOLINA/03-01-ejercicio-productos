@@ -11,7 +11,6 @@ h1 {
 }
 
 
-
 p {
   color: rgb(226, 226, 226);
   text-align: justify;
@@ -21,32 +20,42 @@ p {
 
 .color-01 {
   color: #e5cbbe;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Arial, Gadget, sans-serif;
   font-style: italic;
+  letter-spacing: 1px;
+  font-weight: 1000;
 }
 
 .color-h202 {
   color: #a1c1cb;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Arial, Gadget, sans-serif;
   font-style: italic;
+  letter-spacing: 1px;
+  font-weight: 1000;
 }
 
 .color-h203 {
   color: #bcbdbf;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Arial, Gadget, sans-serif;
   font-style: italic;
+  letter-spacing: 1px;
+  font-weight: 1000;
 }
 
 .color-h204 {
   color: #8d94a1;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Arial, Gadget, sans-serif;
   font-style: italic;
+  letter-spacing: 1px;
+  font-weight: 1000;
 }
 
 .color-h205 {
   color: #b2b2aa;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Arial, Gadget, sans-serif;
   font-style: italic;
+  letter-spacing: 1px;
+  font-weight: 1000;
 }
 
 .margin-izquierda {
